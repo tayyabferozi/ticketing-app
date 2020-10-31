@@ -26166,7 +26166,7 @@ code {
     [data-theme-version="dark"] .table thead th {
       border-color: #333a54; }
   .table tbody tr td {
-    vertical-align: middle;
+    /* vertical-align: middle; */
     border-color: #f3f3f3; }
     [data-theme-version="dark"] .table tbody tr td {
       border-color: #333a54; }
