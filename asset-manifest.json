@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/ticketing-app/static/js/main.fac05cf9.chunk.js",
-    "main.js.map": "/ticketing-app/static/js/main.fac05cf9.chunk.js.map",
-    "runtime-main.js": "/ticketing-app/static/js/runtime-main.26172922.js",
-    "runtime-main.js.map": "/ticketing-app/static/js/runtime-main.26172922.js.map",
-    "static/js/2.209a3d6b.chunk.js": "/ticketing-app/static/js/2.209a3d6b.chunk.js",
-    "static/js/2.209a3d6b.chunk.js.map": "/ticketing-app/static/js/2.209a3d6b.chunk.js.map",
-    "static/js/3.a1667a31.chunk.js": "/ticketing-app/static/js/3.a1667a31.chunk.js",
-    "static/js/3.a1667a31.chunk.js.map": "/ticketing-app/static/js/3.a1667a31.chunk.js.map",
-    "index.html": "/ticketing-app/index.html",
-    "static/js/2.209a3d6b.chunk.js.LICENSE.txt": "/ticketing-app/static/js/2.209a3d6b.chunk.js.LICENSE.txt"
+    "main.js": "/github.io/ticketing-app/static/js/main.07476f93.chunk.js",
+    "main.js.map": "/github.io/ticketing-app/static/js/main.07476f93.chunk.js.map",
+    "runtime-main.js": "/github.io/ticketing-app/static/js/runtime-main.30a95b27.js",
+    "runtime-main.js.map": "/github.io/ticketing-app/static/js/runtime-main.30a95b27.js.map",
+    "static/js/2.7e896e14.chunk.js": "/github.io/ticketing-app/static/js/2.7e896e14.chunk.js",
+    "static/js/2.7e896e14.chunk.js.map": "/github.io/ticketing-app/static/js/2.7e896e14.chunk.js.map",
+    "static/js/3.c554be74.chunk.js": "/github.io/ticketing-app/static/js/3.c554be74.chunk.js",
+    "static/js/3.c554be74.chunk.js.map": "/github.io/ticketing-app/static/js/3.c554be74.chunk.js.map",
+    "index.html": "/github.io/ticketing-app/index.html",
+    "static/js/2.7e896e14.chunk.js.LICENSE.txt": "/github.io/ticketing-app/static/js/2.7e896e14.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.26172922.js",
-    "static/js/2.209a3d6b.chunk.js",
-    "static/js/main.fac05cf9.chunk.js"
+    "static/js/runtime-main.30a95b27.js",
+    "static/js/2.7e896e14.chunk.js",
+    "static/js/main.07476f93.chunk.js"
   ]
 }

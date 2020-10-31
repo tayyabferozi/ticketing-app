@@ -35,6 +35,10 @@ object-assign
  * Licensed under MIT
  */
 
+/*! DataTables 1.10.22
+ * ©2008-2020 SpryMedia Ltd - datatables.net/license
+ */
+
 /** @license React v0.20.1
  * scheduler.production.min.js
  *
