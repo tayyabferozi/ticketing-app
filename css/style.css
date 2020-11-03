@@ -29475,4 +29475,32 @@ html[dir="rtl"] [direction="rtl"][data-sidebar-style="compact"]:not([data-layout
   font-weight: 600;
 }
 
+.lds-dual-ring {
+  width: 80px;
+  height: 80px;
+  margin: auto;
+  display: block
+}
+.lds-dual-ring:after {
+  content: " ";
+  display: block;
+  width: 64px;
+  height: 64px;
+  margin: 8px;
+  border-radius: 50%;
+  border: 6px solid #222FB9;
+  border-color: #222FB9 transparent #222FB9 transparent;
+  animation: lds-dual-ring 1.2s linear infinite;
+}
+
+@keyframes lds-dual-ring {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+
 /*# sourceMappingURL=style.css.map */
