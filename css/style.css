@@ -18353,7 +18353,7 @@ Fixing Order => Base + Typography >> General Layout + Grid >> Page Layout + Comp
 }
 
 .chatbox {
-  width: 340px;
+  /* width: 340px;
   height: 100vh;
   position: fixed;
   right: -500px;
@@ -18363,7 +18363,7 @@ Fixing Order => Base + Typography >> General Layout + Grid >> Page Layout + Comp
   box-shadow: 0px 0px 30px 0px rgba(82, 63, 105, 0.15);
   -webkit-transition: all 0.8s;
   -ms-transition: all 0.8s;
-  transition: all 0.8s;
+  transition: all 0.8s; */
 }
 [data-theme-version="dark"] .chatbox {
   background: #1e2746;
@@ -18540,7 +18540,7 @@ Fixing Order => Base + Typography >> General Layout + Grid >> Page Layout + Comp
   background: #181f39;
 }
 .chatbox .msg_card_body {
-  height: calc(100vh - 195px);
+  /* height: calc(100vh - 195px); */
 }
 .chatbox .contacts_body {
   height: calc(100vh - 120px);
