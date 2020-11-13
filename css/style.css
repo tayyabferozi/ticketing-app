@@ -45479,6 +45479,10 @@ html[dir="rtl"]
   font-weight: 600;
 }
 
+.font-weight-700 {
+  font-weight: 700;
+}
+
 .lds-dual-ring {
   width: 80px;
   height: 80px;
@@ -45506,7 +45510,7 @@ html[dir="rtl"]
   }
 }
 
-.dropdown button {
+.dropdown button.dropdown-toggle {
   padding: 7px;
   background-color: #fff0e1;
   color: #ff7a01;
@@ -45515,10 +45519,10 @@ html[dir="rtl"]
   font-size: inherit !important;
 }
 
-.show.dropdown button:hover,
+.show.dropdown button.dropdown-toggle:hover,
 .show > .btn-warning.dropdown-toggle, 
-.dropdown button:hover, 
-.dropdown button:active {
+.dropdown button.dropdown-toggle:hover, 
+.dropdown button.dropdown-toggle:active {
   background-color: #ff7a01 !important;
   color: #fff !important;
   border: 1px solid #ff7a01 !important;
@@ -45537,7 +45541,7 @@ html[dir="rtl"]
   margin-left: 3px;
 }
 
-.show.dropdown button {
+.show.dropdown button.dropdown-toggle {
   background: #fff;
   font-size: inherit;
   border: 0;
@@ -45548,10 +45552,89 @@ html[dir="rtl"]
   font-size: 14px;
 }
 
-.show.dropdown button:hover {
+.show.dropdown button.dropdown-toggle:hover {
   background-color: #f8f9fa;
   color: #514e5f;
 }
+
+@media screen and (max-width: 768px) {
+  .animated-button-container a {
+    margin: auto !important;
+  }
+}
+
+
+.animated-button-container {
+  padding: 1rem 3rem;
+  text-align: center;
+}
+
+.animated-button-container a {
+  display: inline-block;
+  margin: 0.5rem auto;
+  padding: 0.25rem 1rem;
+  height: auto;
+  line-height: 40px;
+  font-size: 14px;
+  font-family: sans-serif;
+  text-decoration: none;
+  color: #fff;
+  border: 2px solid #222fb9;
+  background-color: #222fb9;
+  letter-spacing: 2px;
+  text-align: center;
+  position: relative;
+  transition: all 0.35s;
+}
+
+.animated-button-container a * {
+  color: #fff;
+}
+
+.animated-button-container a:hover * {
+  color: #222fb9;
+}
+
+.animated-button-container a span {
+  position: relative;
+  z-index: 2;
+}
+
+.animated-button-container a:after {
+  position: absolute;
+  content: "";
+  top: 0;
+  left: 0;
+  width: 0;
+  height: 100%;
+  background: #fff;
+  transition: all 0.35s;
+}
+
+.animated-button-container a:hover {
+  color: #fff;
+}
+
+.animated-button-container a:hover:after {
+  width: 100%;
+}
+
+@media screen and (max-width: 768px) {
+  .animated-button-container a {
+    max-width: 100%;
+  }
+}
+
+.animated-button-container a .arrow {
+  margin-left: 1rem;
+  transition: 0.4s ease-in-out;
+  display: inline-block;
+}
+
+.animated-button-container a:hover .arrow {
+  transform: translateX(10px);
+}
+
 
 
 /*# sourceMappingURL=style.css.map */
