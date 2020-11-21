@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/ticketing-app/static/js/main.a6d96af8.chunk.js",
-    "main.js.map": "/ticketing-app/static/js/main.a6d96af8.chunk.js.map",
-    "runtime-main.js": "/ticketing-app/static/js/runtime-main.8052547a.js",
-    "runtime-main.js.map": "/ticketing-app/static/js/runtime-main.8052547a.js.map",
-    "static/js/2.0cea118b.chunk.js": "/ticketing-app/static/js/2.0cea118b.chunk.js",
-    "static/js/2.0cea118b.chunk.js.map": "/ticketing-app/static/js/2.0cea118b.chunk.js.map",
-    "static/js/3.b3b47da9.chunk.js": "/ticketing-app/static/js/3.b3b47da9.chunk.js",
-    "static/js/3.b3b47da9.chunk.js.map": "/ticketing-app/static/js/3.b3b47da9.chunk.js.map",
+    "main.js": "/ticketing-app/static/js/main.fce554e4.chunk.js",
+    "main.js.map": "/ticketing-app/static/js/main.fce554e4.chunk.js.map",
+    "runtime-main.js": "/ticketing-app/static/js/runtime-main.b04de5e4.js",
+    "runtime-main.js.map": "/ticketing-app/static/js/runtime-main.b04de5e4.js.map",
+    "static/js/2.93cd489b.chunk.js": "/ticketing-app/static/js/2.93cd489b.chunk.js",
+    "static/js/2.93cd489b.chunk.js.map": "/ticketing-app/static/js/2.93cd489b.chunk.js.map",
+    "static/js/3.38113212.chunk.js": "/ticketing-app/static/js/3.38113212.chunk.js",
+    "static/js/3.38113212.chunk.js.map": "/ticketing-app/static/js/3.38113212.chunk.js.map",
     "index.html": "/ticketing-app/index.html",
-    "static/js/2.0cea118b.chunk.js.LICENSE.txt": "/ticketing-app/static/js/2.0cea118b.chunk.js.LICENSE.txt"
+    "static/js/2.93cd489b.chunk.js.LICENSE.txt": "/ticketing-app/static/js/2.93cd489b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8052547a.js",
-    "static/js/2.0cea118b.chunk.js",
-    "static/js/main.a6d96af8.chunk.js"
+    "static/js/runtime-main.b04de5e4.js",
+    "static/js/2.93cd489b.chunk.js",
+    "static/js/main.fce554e4.chunk.js"
   ]
 }
