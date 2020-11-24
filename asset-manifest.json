@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/ticketing-app/static/js/main.b04f22e7.chunk.js",
-    "main.js.map": "/ticketing-app/static/js/main.b04f22e7.chunk.js.map",
+    "main.js": "/ticketing-app/static/js/main.7eb45c97.chunk.js",
+    "main.js.map": "/ticketing-app/static/js/main.7eb45c97.chunk.js.map",
     "runtime-main.js": "/ticketing-app/static/js/runtime-main.4747eb9f.js",
     "runtime-main.js.map": "/ticketing-app/static/js/runtime-main.4747eb9f.js.map",
     "static/js/2.9aa9e98a.chunk.js": "/ticketing-app/static/js/2.9aa9e98a.chunk.js",
@@ -14,6 +14,6 @@
   "entrypoints": [
     "static/js/runtime-main.4747eb9f.js",
     "static/js/2.9aa9e98a.chunk.js",
-    "static/js/main.b04f22e7.chunk.js"
+    "static/js/main.7eb45c97.chunk.js"
   ]
 }

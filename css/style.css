@@ -4473,9 +4473,13 @@ input[type="button"].btn-block {
 
 .nav-tabs {
   border-bottom: 1px solid #dee2e6;
+  display: flex;
+  justify-content: center;
 }
 .nav-tabs .nav-item {
   margin-bottom: -1px;
+  margin-top: 0.75rem;
+  margin-bottom: 0.75rem;
 }
 .nav-tabs .nav-link {
   border: 1px solid transparent;
@@ -45520,8 +45524,8 @@ html[dir="rtl"]
 }
 
 .show.dropdown button.dropdown-toggle:hover,
-.show > .btn-warning.dropdown-toggle, 
-.dropdown button.dropdown-toggle:hover, 
+.show > .btn-warning.dropdown-toggle,
+.dropdown button.dropdown-toggle:hover,
 .dropdown button.dropdown-toggle:active {
   background-color: #ff7a01 !important;
   color: #fff !important;
@@ -45562,7 +45566,6 @@ html[dir="rtl"]
     margin: auto !important;
   }
 }
-
 
 .animated-button-container {
   padding: 1rem 3rem;
@@ -45640,7 +45643,7 @@ html[dir="rtl"]
 }
 
 .show {
-  display: block
+  display: block;
 }
 
 /*# sourceMappingURL=style.css.map */
