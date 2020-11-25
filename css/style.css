@@ -45645,5 +45645,12 @@ html[dir="rtl"]
 .show {
   display: block;
 }
+.dropbtn:focus {
+  box-shadow: none;
+}
+.page-titles {
+  DISPLAY: flex;
+    justify-content: space-between;
+}
 
 /*# sourceMappingURL=style.css.map */
