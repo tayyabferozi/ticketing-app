@@ -45652,5 +45652,8 @@ html[dir="rtl"]
   DISPLAY: flex;
     justify-content: space-between;
 }
+.msg_cotainer strong{
+color: #fff;
+}
 
 /*# sourceMappingURL=style.css.map */
